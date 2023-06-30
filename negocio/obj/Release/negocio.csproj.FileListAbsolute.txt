@@ -1,9 +1,0 @@
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\negocio\bin\Release\negocio.dll
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\negocio\bin\Release\negocio.pdb
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\negocio\bin\Release\dominio.dll
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\negocio\bin\Release\dominio.pdb
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\negocio\obj\Release\negocio.csproj.AssemblyReference.cache
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\negocio\obj\Release\negocio.csproj.CoreCompileInputs.cache
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\negocio\obj\Release\negocio.csproj.CopyComplete
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\negocio\obj\Release\negocio.dll
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\negocio\obj\Release\negocio.pdb
