@@ -1,6 +1,0 @@
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\dominio\bin\Debug\dominio.dll
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\dominio\bin\Debug\dominio.pdb
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\dominio\obj\Debug\dominio.dll
-C:\Users\sergi\Desktop\Programación\Verano 22-23\C#\Practicas\SOLUCION DE PRUEBA CON BBDD\TPFinalNivel2_Arean\dominio\obj\Debug\dominio.pdb
