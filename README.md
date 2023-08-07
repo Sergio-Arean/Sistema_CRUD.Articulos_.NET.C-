@@ -15,7 +15,16 @@
 
 
 
+------------
 
+🎬 **Visualiza la aplicación aquí:**
+
+
+
+https://github.com/Sergio-Arean/Sistema_CRUD.Articulos_.NET.C-/assets/101679332/59b7865f-8150-4e5e-8393-da1c581240ae
+
+
+------------
 ## Inicio
 ![inicio2](https://github.com/Sergio-Arean/Sistema_CRUD.Articulos_.NET.C-/assets/101679332/f3a4c85e-267d-4618-9f82-4fe109e69e1e)
 ## Principal
